@@ -2,8 +2,7 @@ HI🖐
 
 I build practical, open-source software that stays on your device —
 **no tracking, no cloud, no accounts**. Most of it solves everyday
-problems: a weather app for my town, an EPUB reader, terminal tools,
-and lightweight home-server web apps.
+problems.
 
 ## What I'm building
 
