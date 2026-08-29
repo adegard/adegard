@@ -1,6 +1,4 @@
-# WELCOME !
-
-**Android · Python · Web · Self-hosting · Automation · AI experiments**
+HI!
 
 I build practical, open-source software that stays on your device —
 **no tracking, no cloud, no accounts**. Most of it solves everyday
