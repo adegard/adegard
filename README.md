@@ -25,6 +25,6 @@ problems.
 
 - Coding across the stack: **Kotlin, Python, JavaScript, PHP, Shell**
 - Interested in **privacy, self-hosting** and tools that last
-- [Portfolio / projects](https://adegard.github.io/blog/) · [CV](https://adegard.github.io/markdown-cv/) · [GitHub](https://github.com/adegard)
+- [Portfolio / projects](https://adegard.github.io/blog/) 
 
 
