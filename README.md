@@ -10,6 +10,6 @@ problems.
 - **Terminal & Termux tools** — software that runs where you already are
 - **Web & self-hosted apps** — lightweight PHP/Python tools for the home server
   
-[Portfolio / projects](https://adegard.github.io/blog/) 
+[Website](https://adegard.github.io/blog/) 
 
 
